@@ -21,5 +21,6 @@ Here is how it looks:
 ```bash
 $ git clone https://github.com/pavdmyt/simple-oh-my-zsh-theme.git
 $ cp simple-oh-my-zsh-theme/pavdmyt.zsh-theme ~/.oh-my-zsh/custom/themes/
+# Edit ~/.zshrc to set "ZSH_THEME="pavdmyt"
 $ exec $SHELL
 ```
